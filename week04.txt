@@ -13,4 +13,8 @@ linux 명령어
 
 clone "가져올 주소"
 2교시
+conflict 복습
+
+git 명령어
+log --oneline --graph
 
