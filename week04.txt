@@ -11,7 +11,6 @@ log --oneline
 
 linux 명령어
 
-git 명령어
-
+clone "가져올 주소"
 2교시
 
